@@ -5,10 +5,12 @@ The source code is comming soon!
 
 Citation Format:
 
-@inproceedings{huang2021context, \
-  title={Context-Sensitive Temporal Feature Learning for Gait Recognition}, \
-  author={Huang, Xiaohu and Zhu, Duowang and Wang, Hao and Wang, Xinggang and Yang, Bo and He, Botao and Liu, Wenyu and Feng, Bin},\
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},\
-  pages={12909--12918},\
-  year={2021}\
+```
+@inproceedings{huang2021context, 
+  title={Context-Sensitive Temporal Feature Learning for Gait Recognition}, 
+  author={Huang, Xiaohu and Zhu, Duowang and Wang, Hao and Wang, Xinggang and Yang, Bo and He, Botao and Liu, Wenyu and Feng, Bin},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={12909--12918},
+  year={2021}
 }
+```
