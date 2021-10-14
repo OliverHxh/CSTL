@@ -4,7 +4,6 @@ ICCV 2021 PAPER is available at <a href="https://openaccess.thecvf.com/content/I
 The source code is comming soon!
 
 Citation Format:
-
 ```
 @inproceedings{huang2021context, 
   title={Context-Sensitive Temporal Feature Learning for Gait Recognition}, 
