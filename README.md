@@ -1,7 +1,7 @@
 # Context-Sensitive-Temporal-Feature-Learning-for-Gait-Recognition
 ICCV 2021 PAPER is available at <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Huang_Context-Sensitive_Temporal_Feature_Learning_for_Gait_Recognition_ICCV_2021_paper.html" title="CSTL">Context-Sensitive-Temporal-Feature-Learning-for-Gait-Recognition</a>.
 ## Note
-Due to the 64 x 44 silhouettes are in a low resolution, the experiment results will oscillate from time to time. Therefore, we highly recommend you guys to conduct experiments with 128 x 88 resolution, which produces relatively stable results.
+Due to the 64 x 44 silhouettes are in a low resolution, the experiment results will oscillate from time to time. Therefore, we highly recommend you guys to conduct experiments with 128 x 88 resolution on CASIA-B dataset, which produces relatively stable results.
 
 ## Usage
 The dataset path can be set in config.py.
