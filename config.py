@@ -16,7 +16,7 @@ conf = {
         'hard_or_full_trip': 'full',
         'batch_size': (8, 8),
         'restore_iter': 0,
-        'total_iter': 150000,
+        'total_iter': 120000,
         'margin': 0.2,
         'num_workers': 4,
         'frame_num': 30,
