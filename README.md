@@ -6,16 +6,16 @@ Although gait recognition has drawn increasing research attention recently, it r
 
 ## Framework
 <div align="center">
-  ![image](https://github.com/OliverHxh/CSTL/img/framework.jpg)
+  ![image](https://github.com/OliverHxh/CSTL/tree/main/img/framework.jpg)
 </div>
 
 ## Result
 <div align="center">
-  ![image](https://github.com/OliverHxh/CSTLimg/casia-b.jpg)
+  ![image](https://github.com/OliverHxh/CSTL/tree/main/img/casia-b.jpg)
 </div>
 
 <div align="center">
-  ![image](https://github.com/OliverHxh/CSTLimg/ou-mvlp.jpg)
+  ![image](https://github.com/OliverHxh/CSTL//tree/main/img/ou-mvlp.jpg)
 </div>
 
 
