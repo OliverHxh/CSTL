@@ -10,6 +10,7 @@ Although gait recognition has drawn increasing research attention recently, it r
 ## Result
 ![image](https://github.com/OliverHxh/CSTL/blob/10ac7177d2d3fc1a3d583637f9f538b99caf0f4a/img/casia-b.jpg)
 ![image](https://github.com/OliverHxh/CSTL/blob/10ac7177d2d3fc1a3d583637f9f538b99caf0f4a/img/ou-mvlp.jpg)
+<img src="img/ou-mvlp.jpg" width="400"/>
 
 ## Note
 Due to the 64 x 44 silhouettes are in a low resolution, the experiment results will oscillate from time to time. Therefore, we highly recommend you guys to conduct experiments with 128 x 88 resolution on CASIA-B dataset, which produces relatively stable results.
